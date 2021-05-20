@@ -1,0 +1,3 @@
+﻿  MonteCarloGame.cpp
+D:\Misc projects\VS cpp\MonteCarloGame\MonteCarloGame.cpp(81): warning C4715: 'GetRemainingCard': not all control paths return a value
+  MonteCarloGame.vcxproj -> D:\Misc projects\VS cpp\MonteCarloGame\Debug\MonteCarloGame.exe
