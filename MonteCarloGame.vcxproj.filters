@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MonteCarloGame.cpp">
+    <ClCompile Include="src\MonteCarloGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Card.cpp">
+    <ClCompile Include="src\Card.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CardDeck.cpp">
+    <ClCompile Include="src\CardDeck.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Card.h">
+    <ClInclude Include="src\Card.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CardDeck.h">
+    <ClInclude Include="src\CardDeck.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

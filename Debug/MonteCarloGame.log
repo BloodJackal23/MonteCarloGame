@@ -1,3 +1,7 @@
-﻿  MonteCarloGame.cpp
-D:\Misc projects\VS cpp\MonteCarloGame\MonteCarloGame.cpp(81): warning C4715: 'GetRemainingCard': not all control paths return a value
+﻿  Card.cpp
+  CardDeck.cpp
+D:\Misc projects\VS cpp\MonteCarloGame\src\CardDeck.cpp(5,34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  MonteCarloGame.cpp
+  Generating Code...
+D:\Misc projects\VS cpp\MonteCarloGame\src\MonteCarloGame.cpp(81): warning C4715: 'GetRemainingCard': not all control paths return a value
   MonteCarloGame.vcxproj -> D:\Misc projects\VS cpp\MonteCarloGame\Debug\MonteCarloGame.exe
